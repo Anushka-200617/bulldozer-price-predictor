@@ -1,4 +1,4 @@
-@@
+
 ## Bulldozer Price Predictor (Regression)
 
 This project builds a machine learning model to predict bulldozer sale prices using the Kaggle Bluebook for Bulldozers dataset.
@@ -40,11 +40,3 @@ The notebook:
 - Encodes categorical features and imputes missing values
 - Trains and tunes a `RandomForestRegressor`
 - Generates predictions for the Kaggle test set (saved to `data/test_predictions.csv`)
-
-### Notes
-
-- Training can be computationally intensive. Consider reducing sample size or estimator count if needed.
-- To reproduce results, ensure the same dataset versions and random seeds.
-- If you want to exclude large files or local environments later, you can add a `.gitignore` file tailored to your needs.
-
-
