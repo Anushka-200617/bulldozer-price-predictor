@@ -1,5 +1,5 @@
 
-## Bulldozer Price Predictor (Regression)
+## Bulldozer Price Predictor 
 
 This project builds a machine learning model to predict bulldozer sale prices using the Kaggle Bluebook for Bulldozers dataset.
 
